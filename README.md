@@ -1,8 +1,6 @@
 # 人脸识别考勤机
 
-<img src="https://raw.githubusercontent.com/lzeeorno/tailoredGNN_for_KGE_compression/main/pictures/record.png?token=AKJAD65EBKXINKBSAFDUQJLCCM542" style="width:400px;" />
-
-![img](https://raw.githubusercontent.com/lzeeorno/tailoredGNN_for_KGE_compression/main/pictures/record.png?token=AKJAD65EBKXINKBSAFDUQJLCCM542)
+![img](https://github.com/lzeeorno/CVprojects/blob/main/visual_recognition%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB%E8%80%83%E5%8B%A4%E6%9C%BA/record.png)
 
 ## 一、硬件：
 
