@@ -36,7 +36,9 @@ use `python demo_full.py --{variable}={value}`
 
 ### 2.1、Download models and fonts
 
-[Download links](https://github.com/lzeeorno/CVprojects/releases/tag/HostedFile1.0)
+* 1. [Download links](https://github.com/lzeeorno/CVprojects/releases/tag/HostedFile1.0)
+* 2. unzip two folders(weights, fonts)
+* 3. put two folders in same director with demo_full.py
 
 
 ### 2.2、Face register：input face features`./data/feature.csv`
